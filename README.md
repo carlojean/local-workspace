@@ -1,1 +1,1 @@
-atest
+git log --oneline --decorate
